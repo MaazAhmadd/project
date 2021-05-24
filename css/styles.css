@@ -712,6 +712,7 @@ a {
 .nav__brand {
   transform: translateY(5px);
   width: 150px;
+  display: none;
 }
 
 @media screen and (min-width: 768px) {
@@ -866,6 +867,7 @@ a {
 .footer__brand img {
   width: 100%;
   max-width: 230px;
+  display: none;
 }
 
 .footer__copyright {
